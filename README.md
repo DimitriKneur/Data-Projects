@@ -23,7 +23,7 @@ Project Link | Area | Tools | Project Description
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-[Exploring Markdown possibilities](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities) | `Markdown` | <img width="200px" style="padding:2px" src="https://img.shields.io/badge/LibreOfficeWriter-083FA6.svg?style=for-the-badge&logo=libreofficewriter&logoColor=white"/> | Discover some tips to help you enhance your markdown files.
+[Exploring Markdown possibilities](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities) | `Markdown` | <img width="100px" style="padding:2px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/> | Discover some tips to help you enhance your markdown files.
 <!-- 
 **Table of Contens :**
 Analytics Engineering
